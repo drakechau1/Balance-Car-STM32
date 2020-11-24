@@ -1,0 +1,16 @@
+main.c:96:1:__io_putchar	16	static
+main.c:102:6:checkI2CAddress	16	static
+main.c:124:6:printAccelValues	16	static
+main.c:130:6:printGyroValues	16	static
+main.c:142:5:main	16	static
+main.c:214:6:SystemClock_Config	72	static
+main.c:253:13:MX_I2C1_Init	8	static
+main.c:287:13:MX_TIM1_Init	96	static
+main.c:366:13:MX_TIM2_Init	56	static
+main.c:415:13:MX_TIM3_Init	56	static
+main.c:464:13:MX_USART1_UART_Init	8	static
+main.c:497:13:MX_GPIO_Init	40	static
+main.c:529:6:MPU6050_Init	32	static
+main.c:546:6:MPU6050_Read_Accel	40	static
+main.c:561:6:MPU6050_Read_Gyro	40	static
+main.c:581:6:Error_Handler	4	static
